@@ -88,5 +88,5 @@ These design choices are intended to **reduce** memory usage, **lower** inferenc
 
 ## Research / Reference Review
 
-A review of publicly available SIH submissions and open‑source flood/edge‑AI repositories was performed to identify best‑practice documentation structures, dataset documentation patterns, and edge‑AI presentation styles. No code has been directly copied.
+A review of publicly available open‑source flood/edge‑AI repositories was performed to identify best‑practice documentation structures, dataset documentation patterns, and edge‑AI presentation styles. No code has been directly copied.
 " 
